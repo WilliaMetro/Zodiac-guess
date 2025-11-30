@@ -1,2 +1,2 @@
 # Zodiac-guess
-guess you zodiac
+guess your zodiac
